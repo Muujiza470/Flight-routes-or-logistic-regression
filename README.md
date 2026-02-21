@@ -60,3 +60,32 @@ The quadratic model improved model fit compared to the simple linear regression,
 ---
 
 ## Repository Structure
+flight-route-regression/
+│
+├── assets/
+│ ├── linear-regression-summary.png
+│ ├── scatter-linear-fit.png
+│ └── quadratic-fit.png
+│
+├── docs/
+│ └── flight-route-regression-report.docx
+│
+└── README.md
+
+---
+
+## Key Concepts Demonstrated
+
+- Simple Linear Regression
+- Polynomial (Quadratic) Regression
+- Coefficient Interpretation
+- Model Fit Comparison (R²)
+- Statistical Business Analysis
+
+---
+
+## Author
+
+Preciosa Muujiza Ngoy Kalumba  
+M.S. Artificial Intelligence & Business Analytics  
+University of South Florida
